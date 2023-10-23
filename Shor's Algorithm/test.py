@@ -13,4 +13,4 @@ while E != 0:
     denom = E
     E = mN % denom
 f2 = int(N/denom)
-print("Your're prime numbers are " + str(f2) + " and " + str(denom))
+print("You're prime numbers are " + str(f2) + " and " + str(denom))
